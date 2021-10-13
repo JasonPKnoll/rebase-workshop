@@ -11,6 +11,7 @@ CONTENTS OF THIS FILE
  * Troubleshooting
  * New Thing 1
  * New Thing 2
+ * New Thing 3
 
  INTRODUCTION
 ------------
