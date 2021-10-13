@@ -10,6 +10,7 @@ CONTENTS OF THIS FILE
  * Configuration
  * Troubleshooting
  * New Thing 1
+ * New Thing 2
 
  INTRODUCTION
 ------------
